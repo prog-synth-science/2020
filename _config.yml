@@ -1,10 +1,10 @@
 # Site Settings
 title: PSW #Workshop on ABC 
 tagline: Workshop on Program Synthesis for Scientific Computing
-email: your-email@domain.com
+email: ilaguna@llnl.gov
 description: Workshop on Program Synthesis for Scientific Computing
-baseurl: ""
-url: "https://www.csrhymes.com"
+baseurl: "/2020"
+url: "https://prog-synth-science.github.io/2020"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: #chrisrhymes
