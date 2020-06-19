@@ -43,11 +43,15 @@ The workshop dates are August 4-5, 2020.
 | Time (CDT) | Module | Presenter | Slides | Meeting Link |
 |------|--------|-----------|--------|
 10:00 - 10:15 | Welcome & Logistics | Hal/Ignacio | [slides](#) | [BlueJeans](#) |
-10:15 - 11:00 | Keynote 1 | Name LastName | [slides](#) | [BlueJeans](#) |
-11:00 - 12:30 | Breakouts 1 | Name LastName | [slides](#) | [BlueJeans](#) |
+10:15 - 11:00 | Keynote 1 | FirstName LastName | [slides](#) | [BlueJeans](#) |
+11:00 - 12:30 | Breakouts 1 |  |  |  |
+ | | | FirstName LastName | [slides](#) | [BlueJeans](#) |
+  | | | FirstName LastName | [slides](#) | [BlueJeans](#) |
 12:30 - 1:00 |  Break |  | | |
-1:00 - 1:15 | Readout (applications breakout only) | Name LastName | [slides](#) | [BlueJeans](#) |
-1:15 - 3:00 | Breakouts 2 | Name LastName | [slides](#) | [BlueJeans](#) |
+1:00 - 1:15 | Readout (applications breakout only) |  |  | [BlueJeans](#) |
+1:15 - 3:00 | Breakouts 2 |  |  |  |
+| | | FirstName LastName | [slides](#) | [BlueJeans](#) |
+ | | | FirstName LastName | [slides](#) | [BlueJeans](#) |
 3:00 - 4:00 | Readouts | | | [BlueJeans](#) |
 
 #### Day 2 (Aug/5)
@@ -55,12 +59,14 @@ The workshop dates are August 4-5, 2020.
 | Time (CDT) | Module | Presenter | Slides | Meeting Link |
 |------|--------|-----------|--------|
 10:00 - 10:15 | Feedback and Logistics | Hal/Ignacio | [slides](#) | [BlueJeans](#) |
-10:15 - 11:00 | Keynote 2 | Name LastName | [slides](#) | [BlueJeans](#) |
-11:00 - 12:30 | Breakouts 3 | Name LastName | [slides](#) | [BlueJeans](#) |
+10:15 - 11:00 | Keynote 2 | FirstName LastName | [slides](#) | [BlueJeans](#) |
+11:00 - 12:30 | Breakouts 3 |  |  |  |
+| | | FirstName LastName | [slides](#) | [BlueJeans](#) |
+ | | | FirstName LastName | [slides](#) | [BlueJeans](#) |
 12:20 - 1:00 | Break | | | |
-1:00 - 2:00 | Breakouts 4 (discussion plus writing) | Name LastName | [slides](#) | [BlueJeans](#) |
-2:00 - 2:45 | Readout | Name LastName | [slides](#) | [BlueJeans](#) |
-2:45 - 3:00 | Closing Remarks | Hal/Ignacio | [slides](#) | [BlueJeans](#) |
+1:00 - 2:00 | Breakouts 4 (discussion plus writing) |  | | [BlueJeans](#) |
+2:00 - 2:45 | Readout |  |  | [BlueJeans](#) |
+2:45 - 3:00 | Closing Remarks | Hal/Ignacio |  | [BlueJeans](#) |
 
 
 
