@@ -6,7 +6,7 @@ show_sidebar: false
 hide_hero: true
 ---
 
-<img src="../img/banner_v1.svg" alt="workshop">
+<img src="../img/banner_v4.svg" alt="workshop">
 
 # Workshop on Program Synthesis for Scientific Computing (PSW)
 
