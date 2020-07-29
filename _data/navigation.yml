@@ -27,5 +27,7 @@
 #  link: /blog/
 - name: Agenda
   link: /#agenda
+- name: Groups
+  link: /groups
 - name: Report
   link: /#report

@@ -30,7 +30,7 @@ This workshop aims to gather experts in program synthesis together with experts 
 
 ### Registration and Format
 
-There is no fee to attend the workshop. However, space is limited and registration is required. This event is an **online workshop**.
+There is no fee to attend the workshop. However, space is limited and registration is required. This event is a **virtual workshop**.
 
 ## Dates
 
