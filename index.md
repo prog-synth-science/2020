@@ -42,8 +42,8 @@ The workshop dates are August 4-5, 2020.
 
 | Time (CDT) | Module | Presenter | Meeting Link |
 |------|--------|-----------|--------|
-|11:00 - 11:15 | Welcome & Logistics | Hal/Ignacio | [BlueJeans](#) |
-|11:15 - 12:00 | **Keynote:** *Challenges and Opportunities in Machine Programming*  | Justin Gottschlich (Intel) | [BlueJeans](#) |
+|11:00 - 11:15 | Welcome & Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|11:15 - 12:00 | **Keynote:** *Challenges and Opportunities in Machine Programming*  | Justin Gottschlich (Intel) | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 1 (parallel sessions)** |  |  |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](#) |
 | | Modernizing Compiler Technology using Machine Learning | Charith Mendis |  |
@@ -58,8 +58,8 @@ The workshop dates are August 4-5, 2020.
 | | Best-Effort Program Synthesis | Hila Peleg|  |
 | | Synthesis of Safe Pointer-Manipulating Programs | Nadia Polikarpova | |
 |1:30 - 2:00 |  Break |  | |
-|2:00 - 2:15 | Readout (applications breakout only) |   | [BlueJeans](#) |
-|2:15 - 4:00 | **Breakouts 2 (parallel sessions & all interdisciplinary)** |   |  |
+|2:00 - 2:15 | Readout (for the applications breakout only) |   | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|2:15 - 4:00 | **Breakouts 2 (parallel sessions - all interdisciplinary)** |   |  |
 | | **Interdisciplinary group 1** | | [BlueJeans](#) |
 | |Learning maths from examples with deep language model | Amaury Hayat | |
 | |Algorithm Synthesis for Scientific Applications | Markus Eisenbach | |
@@ -77,8 +77,8 @@ The workshop dates are August 4-5, 2020.
 
 | Time (CDT) | Module | Presenter | Meeting Link |
 |------|--------|-----------|--------|
-|11:00 - 11:15 | Organizers’ Feedback and Logistics | Hal/Ignacio | [BlueJeans](#) |
-|11:15 - 12:00 | Readouts |  | [BlueJeans](#) |
+|11:00 - 11:15 | Organizers’ Feedback and Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|11:15 - 12:00 | Readouts |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 3 (parallel sessions)** |  |  |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](#) |
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  | |
@@ -96,8 +96,8 @@ The workshop dates are August 4-5, 2020.
 | | Using Synthesis for Verification of Configuration Files | Ruzica Piskac  | |
 | | Synthesis and Learnability of Relational Properties | Sarfraz Khurshid  | |
 | 1:30 - 2:00 | Break | | |
-| 2:00 - 2:45 | Readouts |  | [BlueJeans](#) |
-| 2:45 - 3:00 | Closing Remarks |  | [BlueJeans](#) |
+| 2:00 - 2:45 | Readouts |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+| 2:45 - 3:00 | Closing Remarks |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 
 
 ### Contact
