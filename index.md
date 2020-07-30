@@ -46,34 +46,40 @@ The workshop dates are August 4-5, 2020.
 |11:15 - 12:00 | **Keynote:** *Challenges and Opportunities in Machine Programming*  | Justin Gottschlich (Intel) | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 1 (parallel sessions)** |  |  |
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
-| | Proceed directly to your [discussion group](/groups) | | |
+| | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](#) |
 | | Modernizing Compiler Technology using Machine Learning | Charith Mendis |  |
 | | Challenges and Opportunities for AI-Driven, Directive-based Heterogeneous Computing | Seyong Lee |  |
 | | Automatic Synthesis of Compiler Transformations | Martin Kong | |
+| | Proceed to your [discussion group](groups) (group 3 or 4) | | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | | [BlueJeans](#) |
 | | BluePencil: Automating Repetitive Code Edits with Modeless Synthesis | Arjun Radhakrishna |  |
 | | Learning fitness functions to synthesize programs | Abdullah Muzahid |  |
 | | Program Synthesis using Deduction-Guided Reinforcement Learning | Işil Dillig | |
+| | Proceed to your [discussion group](groups) (group 5 or 6) | | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | | [BlueJeans](#) |
 | | Syntax-guided synthesis | Rajeev Alur |  |
 | | Best-Effort Program Synthesis | Hila Peleg|  |
 | | Synthesis of Safe Pointer-Manipulating Programs | Nadia Polikarpova | |
+| | Proceed to your [discussion group](groups) (group 7 or 8) | | |
 |1:30 - 2:00 |  Break |  | |
 |2:00 - 2:15 | Readout (for the applications breakout only) |   | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |2:15 - 4:00 | **Breakouts 2 (parallel sessions - all interdisciplinary)** |   |  |
-| | **Interdisciplinary group 1** | | [BlueJeans](#) |
-| |Learning maths from examples with deep language model | Amaury Hayat | |
-| |Algorithm Synthesis for Scientific Applications | Markus Eisenbach | |
-| |Compiler 2.0: Using Machine Learning to Modernize Compiler Technology | Saman Amarasinghe | |
-| | **Interdisciplinary group 2** | | [BlueJeans](#) |
-| |Using Code Synthesis to Revitalize Legacy Code in Scientific Applications | Vivek Sarkar | |
-| |Using Synthesis to Simplify Parallel Code Development | Alex Aiken | |
-| |Learning + Search: The Right Way to Build an Optimizing Compiler | Jonathan Ragan-Kelley | |
-| | **Interdisciplinary group 3** | | [BlueJeans](#) |
-| |Evolving machine code | Kamil Rocki | |
-| |Improving the Scalability and Practicality of Syntax-Guided Synthesis | Xiaokang Qiu | |
-| |Performance Exploration Through Optimistic Static Program Annotations | Johannes Doerfert | |
+| | **Session 1** | | [BlueJeans](#) |
+| | Learning maths from examples with deep language model | Amaury Hayat | |
+| | Algorithm Synthesis for Scientific Applications | Markus Eisenbach | |
+| | Compiler 2.0: Using Machine Learning to Modernize Compiler Technology | Saman Amarasinghe | |
+| | Proceed to your [discussion group](groups) (groups 9-16) | | |
+| | **Session 2** | | [BlueJeans](#) |
+| | Using Code Synthesis to Revitalize Legacy Code in Scientific Applications | Vivek Sarkar | |
+| | Using Synthesis to Simplify Parallel Code Development | Alex Aiken | |
+| | Learning + Search: The Right Way to Build an Optimizing Compiler | Jonathan Ragan-Kelley | |
+| | Proceed to your [discussion group](groups) (groups 9-16) | | |
+| | **Session 3** | | [BlueJeans](#) |
+| | Evolving machine code | Kamil Rocki | |
+| | Improving the Scalability and Practicality of Syntax-Guided Synthesis | Xiaokang Qiu | |
+| | Performance Exploration Through Optimistic Static Program Annotations | Johannes Doerfert | |
+| | Proceed to your [discussion group](groups) (groups 9-16) | | |
 
 #### Day 2 (Aug/5)
 
@@ -82,25 +88,29 @@ The workshop dates are August 4-5, 2020.
 |11:00 - 11:15 | Organizers’ Feedback and Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |11:15 - 12:00 | Readouts |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 3 (parallel sessions)** |  |  |
+| | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
+| | Proceed directly to your [discussion group](groups) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](#) |
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  | |
 | | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing | Dmitry Liakh  | |
 | | Code Analysis and Optimization using Loop Hierarchies | Michael Kruse  | |
 | | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout  | |
+| | Proceed to your [discussion group](groups) (group 3 or 4) | | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | | [BlueJeans](#) |
 | | Statistical Program Synthesis | Swarat Chaudhuri  | |
 | | Learning Logic Programs from Data: From Practice to Theory and Back | Mayur Naik  | |
 | | Symbolic AD with conditionals for error and instability analysis | Ganesh L Gopalakrishnan  | |
 | | Machine-learning-based automatic performance tuning | Prasanna Balaprakash  | |
+| | Proceed to your [discussion group](groups) (group 5 or 6) | | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | | [BlueJeans](#) |
 | | Live Functional Programming with Typed Holes | Cyrus Omar  | |
 | | Synthesis via Tactics | George Stelle  | |
 | | Using Synthesis for Verification of Configuration Files | Ruzica Piskac  | |
 | | Synthesis and Learnability of Relational Properties | Sarfraz Khurshid  | |
+| | Proceed to your [discussion group](groups) (group 7 or 8) | | |
 | 1:30 - 2:00 | Break | | |
 | 2:00 - 2:45 | Readouts |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 | 2:45 - 3:00 | Closing Remarks |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
-
 
 ### Contact
  
