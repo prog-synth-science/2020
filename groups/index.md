@@ -25,6 +25,8 @@ hide_hero: true
     <td> </td> <td><b>Scientific Applications and Methods - Opportunities for Program Synthesis</b></td> <td> </td>
   </tr>
 
+  <tr> <td> </td> <td>Please address these [charge questions](#cqa1).</td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 1: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
@@ -59,6 +61,8 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
 
+  <tr> <td> </td> <td>Please address these [charge questions](#cqc1).</td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 3: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
@@ -92,6 +96,8 @@ hide_hero: true
   </tr>
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
+  
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 5: <br />
   {% for p in site.data.groups %}
@@ -126,6 +132,8 @@ hide_hero: true
   </tr>
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
+
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
@@ -178,6 +186,8 @@ hide_hero: true
         understandability.</li>
   </ul>
   </td> <td> </td> </tr>
+
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 9: <br />
   {% for p in site.data.groups %}
@@ -310,6 +320,8 @@ hide_hero: true
     <td> </td> <td><b>Scientific Applications and Methods - Opportunities for Program Synthesis</b></td> <td> </td>
   </tr>
   
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 1: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
@@ -343,6 +355,8 @@ hide_hero: true
   </tr>
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
+
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 3: <br />
   {% for p in site.data.groups %}
@@ -378,6 +392,8 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 5: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
@@ -412,6 +428,8 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
+  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
@@ -441,3 +459,47 @@ hide_hero: true
   </tr>
   
 </table>
+
+## <a name="cq"></a> Charge Questions
+
+  1. What are the current areas of focus and successes in program synthesis within the research community and industry?
+  2. How should these focus areas and successes be expanded to encompass the needs of scientific computing and HPC?
+  3. What are the challenges in applying program synthesis to problems in scientific computing and HPC?
+  4. What opportunities exist for applying existing successful approaches in scientific computing and HPC?
+  5. What are aggressive short term (1-2 years), medium term (3-5 years), and long term (> 5 years) goals?
+
+## <a name="cqa1"></a> Charge Questions (applications sections during breakout 1):
+
+  1. What are the most labor-intensive aspects of programming scientific applications/libraries?
+  2. What are the most technically difficult aspects of programming scientific applications/libraries?
+  3. What capabilities would a software system need to possess in order to largely, or completely, automate these tasks? What are the required inputs? How would the system interact with the human programmers?
+
+## <a name="cqc1"></a> Charge Questions (compiler and tools sections during breakout 1):
+
+  1. What opportunities exist to improve compilers and program analysis tools to better support scientific applications and HPC?
+  2. How might higher-level information be leveraged to capture those opportunities?
+  3. How might compiler technology be improved to better integrate with program-synthesis systems?
+
+## Additional Prompt Questions
+
+In addition to these general charge questions, here are a number of challenge questions highlighted by our attendees in the pre-workshop questionnaire that might serve as useful points of discussion in the breakout sessions:
+
+  1. How can we make program-synthesis tools scalable?
+  2. How can we make program-synthesis tools composible?
+  3. How can we make use of natural language in program-synthesis systems in this area?
+  4. How can high-level specifications drive program synthesis in this area?
+  5. How can data-driven program synthesis be applied to this area?
+  6. How can we make use of deep learning in program-synthesis systems?
+  7. How should program-synthesis systems handle flawed and ambiguous specifications?
+  8. How can we make program-synthesis systems integrate with IDEs and otherwise have useful interfaces?
+  9. How can we construct general program synthesis systems (i.e., systems not restricted to a small, domain-specific set of primitives)?
+  10. How can we most-effectively use domain-specific languages with program-synthesis systems?
+  11. How can we access the productivity improvements from program-synthesis systems and use that data to improve those systems?
+  12. How can we create program-synthesis systems that can create parallelization strategies and address algorithmic-complexity metrics?
+  13. How can we select test cases, or create test cases, useful for training and benchmarking program-synthesis systems?
+  14. How can program-synthesis systems assist with hardware/software co-design?
+  15. How can program-synthesis systems complement programming environments featuring runtime specialization (e.g., just-in-time compilation)?
+  16. How can program-synthesis systems help address performance-portability requirements?
+  17. How can program-synthesis systems contribute to increasing software reliability?
+  18. How can program-synthesis systems most-usefully provide formal correctness guarantees?
+
