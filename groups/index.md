@@ -25,7 +25,7 @@ hide_hero: true
     <td> </td> <td><b>Scientific Applications and Methods - Opportunities for Program Synthesis</b></td> <td> </td>
   </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cqa1).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cqa1">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 1: <br />
   {% for p in site.data.groups %}
@@ -61,7 +61,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cqc1).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cqc1">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 3: <br />
   {% for p in site.data.groups %}
@@ -97,7 +97,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
   
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 5: <br />
   {% for p in site.data.groups %}
@@ -133,7 +133,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
@@ -187,7 +187,7 @@ hide_hero: true
   </ul>
   </td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 9: <br />
   {% for p in site.data.groups %}
@@ -320,7 +320,7 @@ hide_hero: true
     <td> </td> <td><b>Scientific Applications and Methods - Opportunities for Program Synthesis</b></td> <td> </td>
   </tr>
   
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 1: <br />
   {% for p in site.data.groups %}
@@ -356,7 +356,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 3: <br />
   {% for p in site.data.groups %}
@@ -392,7 +392,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 5: <br />
   {% for p in site.data.groups %}
@@ -428,7 +428,7 @@ hide_hero: true
 
   <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Please address these [charge questions](#cq).</td> <td> </td> </tr>
+  <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
