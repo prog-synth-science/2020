@@ -45,6 +45,8 @@ The workshop dates are August 4-5, 2020.
 |11:00 - 11:15 | Welcome & Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |11:15 - 12:00 | **Keynote:** *Challenges and Opportunities in Machine Programming*  | Justin Gottschlich (Intel) | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 1 (parallel sessions)** |  |  |
+| | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
+| | Proceed directly to your [discussion group](/groups) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](#) |
 | | Modernizing Compiler Technology using Machine Learning | Charith Mendis |  |
 | | Challenges and Opportunities for AI-Driven, Directive-based Heterogeneous Computing | Seyong Lee |  |
