@@ -71,7 +71,7 @@ hide_hero: true
           {% endif %}
   {% endfor %}
   {% endfor %}
-  <b>Discussion Lead</b>: <i>TBA</i>,
+  <b>Discussion Lead</b>: Barbara Chapman,
   <b>Note Takers</b>: Michael Kruse, Vivek Sarkar
   </td> 
   <td> <a href="https://bluejeans.com/645559327/0098">BlueJeans</a> </td>
