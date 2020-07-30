@@ -380,7 +380,7 @@ hide_hero: true
           {% endif %}
   {% endfor %}
   {% endfor %}
-  <b>Discussion Lead</b>: <i>TBA</i>,
+  <b>Discussion Lead</b>: Johannes Doerfert,
   <b>Note Takers</b>: Jacob Lambert, Eun Jung (EJ) Park
   </td> 
   <td> <a href="https://bluejeans.com/738687549/2434">BlueJeans</a> </td>
