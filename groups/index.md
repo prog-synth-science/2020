@@ -161,6 +161,24 @@ hide_hero: true
   
   <tr> <td> </td> <td> 2:15 - 2:45: Presentations (see agenda for links)</td> <td> </td> </tr>
 
+  <tr> <td> </td> <td>
+  All groups to consider:
+  <ul>
+    <li>Methods for injecting application requirements (e.g., natural-language
+        descriptions, mathematical specifications, examples of desired behavior).</li>
+    <li>Methods for searching the space of potentially-suitable programs (e.g.,
+        reinforcement learning and other machine-learning techniques,
+        counter-example-driven refinement, evolutionary methods, optimization
+        methods).</li>
+    <li>Methods for verifying the correctness of potential programs or
+        increasing the confidence of correctness in existing programs (including formal
+        methods providing both absolute and statistical guarantees).</li>
+    <li>Methods reflecting the multi-objective nature of these problems,
+        including performance, power efficiency, verifiability, and
+        understandability.</li>
+  </ul>
+  </td> <td> </td> </tr>
+
   <tr> <td> </td> <td>Group 9: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
