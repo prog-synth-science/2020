@@ -67,7 +67,7 @@ The workshop dates are August 4-5, 2020.
 |2:15 - 4:00 | **Breakouts 2 (parallel sessions - all interdisciplinary)** |   |  |
 | | *Pick any of the three sessions, and then proceed to your discussion group* | | |
 | | **Session 1** | | [BlueJeans](https://bluejeans.com/408435647/0604) |
-| | Learning maths from examples with deep language model | Amaury Hayat | |
+| | Learning maths from examples with deep language model | Amaury Hayat / François Charton | |
 | | Algorithm Synthesis for Scientific Applications | Markus Eisenbach | |
 | | Compiler 2.0: Using Machine Learning to Modernize Compiler Technology | Saman Amarasinghe | |
 | | Proceed to your [discussion group](groups) (groups 9-16) | | |

@@ -8,6 +8,10 @@
     groups: [1, 11]
   },
   {
+    name: "Anshu Dubey",
+    groups: [1, 9]
+  },
+  {
     name: "Nur Aiman Fadel",
     groups: [1, 12]
   },
@@ -128,6 +132,10 @@
     groups: [3, 10]
   },
   {
+    name: "Sri Hari Krishna Narayanan",
+    groups: [3, 12]
+  },
+  {
     name: "Cathie Olschanowsky",
     groups: [3, 11]
   },
@@ -224,6 +232,10 @@
     groups: [5, 16]
   },
   {
+    name: "Estee Chen",
+    groups: [5, 16]
+  },
+  {
     name: "Taylor Childers",
     groups: [5, 9]
   },
@@ -234,6 +246,10 @@
   {
     name: "Vinod Grover",
     groups: [5, 10]
+  },
+  {
+    name: "Roshni Iyer",
+    groups: [5, 13]
   },
   {
     name: "Vineeth Kashyap",
@@ -280,12 +296,20 @@
     groups: [5, 12]
   },
   {
+    name: "Wei Wang",
+    groups: [5, 11]
+  },
+  {
     name: "Shengtian Zhou",
     groups: [5, 15]
   },
   {
     name: "Todd Anderson",
     groups: [6, 13]
+  },
+  {
+    name: "François Charton",
+    groups: [6, 16]
   },
   {
     name: "Swarat Chaudhuri",
@@ -302,6 +326,10 @@
   {
     name: "Paul Hovland",
     groups: [6, 9]
+  },
+  {
+    name: "Jan Hueckelheim",
+    groups: [6, 13]
   },
   {
     name: "Samuel Kaufman",
@@ -336,8 +364,16 @@
     groups: [6, 15]
   },
   {
+    name: "Tiark Rompf",
+    groups: [6, 15]
+  },
+  {
     name: "Srinivasan Sengamedu",
     groups: [6, 16]
+  },
+  {
+    name: "Yizhou Sun",
+    groups: [6, 14]
   },
   {
     name: "Aditya Thakur",
@@ -374,6 +410,10 @@
   {
     name: "Ruben Martins",
     groups: [7, 9]
+  },
+  {
+    name: "James McDonald",
+    groups: [7, 16]
   },
   {
     name: "Peter-Michael Osera",
