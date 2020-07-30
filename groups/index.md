@@ -122,10 +122,10 @@ hide_hero: true
   </tr>
   
   <tr>
-    <td> </td> <td><b>Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)</b></td> <td> </td> </tr>
+    <td> </td> <td><b>Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)</b></td> <td> </td>
   </tr>
 
-  <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td>
+  <tr> <td> </td> <td> 12:00 - 12:30: Presentations (see agenda for links)</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
@@ -324,7 +324,7 @@ hide_hero: true
     <td> </td> <td><b>Compiler Technology - Opportunities for Program Synthesis</b></td> <td> </td>
   </tr>
 
-  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td>
+  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 3: <br />
   {% for p in site.data.groups %}
@@ -358,7 +358,7 @@ hide_hero: true
     <td> </td> <td><b>Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)</b></td> <td> </td>
   </tr>
 
-  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td>
+  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 5: <br />
   {% for p in site.data.groups %}
@@ -392,7 +392,7 @@ hide_hero: true
     <td> </td> <td><b>Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)</b></td> <td> </td>
   </tr>
 
-  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td>
+  <tr> <td> </td> <td> 12:00 - 12:40: Presentations (see agenda for links)</td> <td> </td> </tr>
 
   <tr> <td> </td> <td>Group 7: <br />
   {% for p in site.data.groups %}
