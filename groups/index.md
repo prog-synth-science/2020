@@ -34,7 +34,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/357432249/9742">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 2: <br />
@@ -46,7 +46,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/609275045/5422">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -62,7 +62,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/645559327/0098">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 4: <br />
@@ -74,7 +74,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/887795031/9192">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -90,7 +90,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/404990220/7122">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 6: <br />
@@ -102,7 +102,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/220816776/3559">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -118,7 +118,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/130055935/3376">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 8: <br />
@@ -130,7 +130,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/188346075/3335">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -146,7 +146,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/806843863/0321">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 10: <br />
@@ -158,7 +158,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/974436184/4706">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 11: <br />
@@ -170,7 +170,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/599400432/4547">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 12: <br />
@@ -182,7 +182,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/635899911/9003">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 13: <br />
@@ -194,7 +194,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/834333631/1648">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 14: <br />
@@ -206,7 +206,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/854681398/3749">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 15: <br />
@@ -218,7 +218,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/232160816/1487">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 16: <br />
@@ -230,7 +230,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/148128549/3765">BlueJeans</a> </td>
   </tr>
   
 </table>
@@ -261,7 +261,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/190596050/8726">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 2: <br />
@@ -273,7 +273,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/964366076/3667">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -289,7 +289,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/279171928/2747">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 4: <br />
@@ -301,7 +301,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/738687549/2434">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -317,7 +317,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/910353410/9998">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 6: <br />
@@ -329,7 +329,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/656934980/9596">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -345,7 +345,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/170733779/7052">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 8: <br />
@@ -357,7 +357,7 @@ hide_hero: true
   {% endfor %}
   {% endfor %}
   </td> 
-  <td> </td>
+  <td> <a href="https://bluejeans.com/344409195/6526">BlueJeans</a> </td>
   </tr>
   
 </table>
