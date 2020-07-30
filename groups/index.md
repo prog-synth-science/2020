@@ -33,6 +33,8 @@ hide_hero: true
           {% endif %}
   {% endfor %}
   {% endfor %}
+  <b>Discussion Lead</b>: Valerie Taylor,
+  <b>Note Takers</b>: Ian Foster, Min Si
   </td> 
   <td> <a href="https://bluejeans.com/357432249/9742">BlueJeans</a> </td>
   </tr>
@@ -134,7 +136,7 @@ hide_hero: true
   </tr>
   
   <tr>
-    <td>2:15 - 4:00</td> <td>Breakouts 2 (parallel sessions & all interdisciplinary)</td> <td> </td>
+    <td>2:15 - 4:00</td> <td>Breakouts 2 (parallel sessions - all interdisciplinary)</td> <td> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 9: <br />
