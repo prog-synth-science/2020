@@ -388,6 +388,10 @@
     groups: [6, 10]
   },
   {
+    name: "Fei Wang",
+    groups: [6, 15]
+  },
+  {
     name: "Aws Albarghouthi",
     groups: [7, 11]
   },
