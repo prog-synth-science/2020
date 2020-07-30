@@ -36,6 +36,10 @@ There is no fee to attend the workshop. However, space is limited and registrati
 
 The workshop dates are August 4-5, 2020.
 
+## Online Platform
+
+The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (version 80+), and possibly some other browsers, you do not need to install a separate client. However, you'll get the best experience with the native client application. For the parallel sessions, the [BlueJeans Meetings](https://www.bluejeans.com/downloads) platform will be used. For the sessions that everyone will join (i.e., the keynote and the readouts), the [BlueJeans Events](https://www.bluejeans.com/downloads#events) platform will be used (see [this page](https://support.bluejeans.com/s/article/BlueJeans-Events-App-Centralized-Deployment) for the Linux download).
+
 ### <a class="anchor" name="agenda"> Agenda </a> 
 
 #### Day 1 (Aug/4)
