@@ -70,7 +70,7 @@ The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (ve
 | | Synthesis of Safe Pointer-Manipulating Programs | Nadia Polikarpova | |
 | | Proceed to your [discussion group](groups) (group 7 or 8) | | |
 |1:30 - 2:00 |  Break |  | |
-|2:00 - 2:15 | Readouts (for the applications breakouts, groups 1 and 2, only) |   | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|2:00 - 2:15 | Readouts (from the applications sessions, groups 1 and 2, only) |   | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |2:15 - 4:00 | **Breakouts 2 (parallel sessions - all interdisciplinary)** |   |  |
 | | *Pick any of the three sessions, and then proceed to your discussion group* | | |
 | | **Session 1** | | [BlueJeans](https://bluejeans.com/408435647/0604) |
@@ -97,7 +97,7 @@ The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (ve
 | Time (CDT) | Module | Presenter | Meeting Link |
 |------|--------|-----------|--------|
 |11:00 - 11:15 | Organizers’ Feedback and Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
-|11:15 - 12:00 | Readouts (for interdisciplinary sessions) |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|11:15 - 12:00 | Readouts (from interdisciplinary sessions) |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 3 (parallel sessions)** |  |  |
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
