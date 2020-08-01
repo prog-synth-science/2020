@@ -128,4 +128,4 @@ The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (ve
 
 ### Contact
  
- Please address workshop questions to Hal Finkel (hfinkel@anl.gov) and/or Ignacio Laguna (ilaguna@llnl.gov).
+ Please address workshop questions to Hal Finkel (hfinkel@anl.gov) and/or Ignacio Laguna (ilaguna@llnl.gov). During the event, please also cc India Gordon (igordon@anl.gov).
