@@ -40,14 +40,28 @@ The workshop dates are August 4-5, 2020.
 
 The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (version 80+), and possibly some other browsers, you do not need to install a separate client. However, you'll get the best experience with the native client application. For the parallel sessions, the [BlueJeans Meetings](https://www.bluejeans.com/downloads) platform will be used. For the sessions that everyone will join (i.e., the keynote and the readouts), the [BlueJeans Events](https://www.bluejeans.com/downloads#events) platform will be used (see [this page](https://support.bluejeans.com/s/article/BlueJeans-Events-App-Centralized-Deployment) for the Linux download).
 
-### <a class="anchor" name="agenda"> Agenda </a> 
+## Keynote Speaker
 
-#### Day 1 (Aug/4)
+#### [Justin Gottschlich](https://sites.google.com/view/gottschlich/home), Intel
+
+**Bio:**
+Justin Gottschlich is a principal scientist and the director and founder of the Machine Programming Research group at Intel Labs. More generally, Justin guides the research and engineering of machine programming (MP) across Intel, which is a new pioneering research area for the company. Justin has a deep desire to build bridges with thought leaders across industry and academia to identify disruptive research and push it forward as a community. Recently he has been working with Amazon, Brown, Georgia Tech, Google AI, Hebrew University, IBM Research, Microsoft Research, MIT, Penn, Stanford, Texas A&M, UC-Berkeley, and UCLA, to name a few. He co-founded and is the principal investigator of the joint Intel/NSF CAPA research center which focuses on simplifying the software programmability challenge for heterogeneous hardware. He also helped create the ACM SIGPLAN Machine Learning and Programming Languages workshop and currently serves as its steering committee chair. Justin also has the distinguished honor of serving on the advisory board of Solar-Lezama et al.’s 2020 NSF Expeditions “Understanding the World Through Code.”
+
+#### *Machine Programming: Challenges and Opportunities*
+
+**Abstract:**
+As defined by ["The Three Pillars of Machine Programming"](https://arxiv.org/pdf/1803.07244.pdf), machine programming (MP) is concerned with the automation of software development. The three pillars partition MP into the following conceptual components: (i) intention, (ii) invention, and (iii) adaptation, with data being a foundational element that is generally necessary for all pillars. While the goal of MP is complete software automation – something that is likely decades away – we believe there are many seminal research opportunities waiting to be explored today across the three pillars.
+
+In this talk, we will cover a diverse range of topics that we believe are central to the advancement of MP, including: (i) machine programming using approximate and precise methods, (ii) extraction of multi-dimensional and evolving code semantics, (iii) human-intended and machine-intended programming languages, (iv) novel structural representations of code, (v) intentional programming and behaviors, (vi) traditional and continuous learning for adaptive software (and hardware), (vii) automation for software and hardware heterogeneity, (viii) ethics of machine programming, and (ix) the future of data, communication, and computation for MP. For each topic, we will provide an abbreviated assessment of both the strengths and weaknesses of current research advances, mostly as a vehicle to stimulate active discussion during the workshop.
+
+## <a class="anchor" name="agenda"> Agenda </a> 
+
+### Day 1 (Aug/4)
 
 | Time (CDT) | Module | Presenter | Meeting Link |
 |------|--------|-----------|--------|
 |11:00 - 11:15 | Welcome & Logistics | Hal/Ignacio | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
-|11:15 - 12:00 | **Keynote:** *Challenges and Opportunities in Machine Programming*  | Justin Gottschlich (Intel) | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
+|11:15 - 12:00 | **Keynote:** *Machine Programming: Challenges and Opportunities*  | Justin Gottschlich (Intel) | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 1 (parallel sessions)** |  |  |
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
@@ -92,7 +106,7 @@ The workshop will make use of the BlueJeans platform. If you use Chrome/Edge (ve
 | | Performance Exploration Through Optimistic Static Program Annotations | Johannes Doerfert | |
 | | Proceed to your [discussion group](groups) (groups 9-16) | | |
 
-#### Day 2 (Aug/5)
+### Day 2 (Aug/5)
 
 | Time (CDT) | Module | Presenter | Meeting Link |
 |------|--------|-----------|--------|
