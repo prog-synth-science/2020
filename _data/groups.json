@@ -1,514 +1,518 @@
 [
   {
-    name: "Francis Alexander",
-    groups: [1, 10]
+    "name": "Francis Alexander",
+    "groups": [1, 10]
   },
   {
-    name: "Arnab Das",
-    groups: [1, 11]
+    "name": "Arnab Das",
+    "groups": [1, 11]
   },
   {
-    name: "Anshu Dubey",
-    groups: [1, 9]
+    "name": "Anshu Dubey",
+    "groups": [1, 9]
   },
   {
-    name: "Nur Aiman Fadel",
-    groups: [1, 12]
+    "name": "Nur Aiman Fadel",
+    "groups": [1, 12]
   },
   {
-    name: "Ian Foster",
-    groups: [1, 13]
+    "name": "Ian Foster",
+    "groups": [1, 13]
   },
   {
-    name: "Amaury Hayat",
-    groups: [1, 14]
+    "name": "Amaury Hayat",
+    "groups": [1, 14]
   },
   {
-    name: "John Jacobson",
-    groups: [1, 15]
+    "name": "John Jacobson",
+    "groups": [1, 15]
   },
   {
-    name: "Beau Johnston",
-    groups: [1, 16]
+    "name": "Beau Johnston",
+    "groups": [1, 16]
   },
   {
-    name: "Dmitry Liakh",
-    groups: [1, 9]
+    "name": "Dmitry Liakh",
+    "groups": [1, 9]
   },
   {
-    name: "Min Si",
-    groups: [1, 12]
+    "name": "Min Si",
+    "groups": [1, 12]
   },
   {
-    name: "Rajeev Thakur",
-    groups: [1, 10]
+    "name": "Rajeev Thakur",
+    "groups": [1, 10]
   },
   {
-    name: "Valerie Taylor",
-    groups: [1, 13]
+    "name": "Valerie Taylor",
+    "groups": [1, 13]
   },
   {
-    name: "Brice Videau",
-    groups: [1, 14]
+    "name": "Brice Videau",
+    "groups": [1, 14]
   },
   {
-    name: "Pavan Balaji",
-    groups: [2, 15]
+    "name": "Pavan Balaji",
+    "groups": [2, 15]
   },
   {
-    name: "Markus Eisenbach",
-    groups: [2, 16]
+    "name": "Markus Eisenbach",
+    "groups": [2, 16]
   },
   {
-    name: "Kyle Felker",
-    groups: [2, 9]
+    "name": "Kyle Felker",
+    "groups": [2, 9]
   },
   {
-    name: "Ganesh Gopalakrishnan",
-    groups: [2, 10]
+    "name": "Ganesh Gopalakrishnan",
+    "groups": [2, 10]
   },
   {
-    name: "Michael Heroux",
-    groups: [2, 11]
+    "name": "Michael Heroux",
+    "groups": [2, 11]
   },
   {
-    name: "Xiao-Yong Jin",
-    groups: [2, 12]
+    "name": "Xiao-Yong Jin",
+    "groups": [2, 12]
   },
   {
-    name: "Ian Karlin",
-    groups: [2, 13]
+    "name": "Ian Karlin",
+    "groups": [2, 13]
   },
   {
-    name: "Nevin Liber",
-    groups: [2, 14]
+    "name": "Nevin Liber",
+    "groups": [2, 14]
   },
   {
-    name: "Srinivas Nedunuri",
-    groups: [2, 10]
+    "name": "Srinivas Nedunuri",
+    "groups": [2, 10]
   },
   {
-    name: "Matthew Norman",
-    groups: [2, 15]
+    "name": "Matthew Norman",
+    "groups": [2, 15]
   },
   {
-    name: "Boyana Norris",
-    groups: [2, 11]
+    "name": "Boyana Norris",
+    "groups": [2, 11]
   },
   {
-    name: "Cindy Rubio Gonzalez",
-    groups: [2, 16]
+    "name": "Cindy Rubio Gonzalez",
+    "groups": [2, 16]
   },
   {
-    name: "Tong Zhou",
-    groups: [2, 11]
+    "name": "Tong Zhou",
+    "groups": [2, 11]
   },
   {
-    name: "Alex Aiken",
-    groups: [3, 12]
+    "name": "Alex Aiken",
+    "groups": [3, 12]
   },
   {
-    name: "Barbara Chapman",
-    groups: [3, 13]
+    "name": "Barbara Chapman",
+    "groups": [3, 13]
   },
   {
-    name: "Jungwon Kim",
-    groups: [3, 15]
+    "name": "Jungwon Kim",
+    "groups": [3, 15]
   },
   {
-    name: "Michael Kruse",
-    groups: [3, 16]
+    "name": "Michael Kruse",
+    "groups": [3, 16]
   },
   {
-    name: "Seyong Lee",
-    groups: [3, 9]
+    "name": "Seyong Lee",
+    "groups": [3, 9]
   },
   {
-    name: "Nuno Lopes",
-    groups: [3, 10]
+    "name": "Nuno Lopes",
+    "groups": [3, 10]
   },
   {
-    name: "Sri Hari Krishna Narayanan",
-    groups: [3, 12]
+    "name": "Sri Hari Krishna Narayanan",
+    "groups": [3, 12]
   },
   {
-    name: "Brandon Neth",
-    groups: [3, 16]
+    "name": "Brandon Neth",
+    "groups": [3, 16]
   },
   {
-    name: "Cathie Olschanowsky",
-    groups: [3, 11]
+    "name": "Cathie Olschanowsky",
+    "groups": [3, 11]
   },
   {
-    name: "Tobi Popoola",
-    groups: [3, 12]
+    "name": "Tharindu Patabandi",
+    "groups": [3, 16]
   },
   {
-    name: "Jose Rodriguez",
-    groups: [3, 13]
+    "name": "Tobi Popoola",
+    "groups": [3, 12]
   },
   {
-    name: "Vivek Sarkar",
-    groups: [3, 14]
+    "name": "Jose Rodriguez",
+    "groups": [3, 13]
   },
   {
-    name: "Markus Schordan",
-    groups: [3, 15]
+    "name": "Vivek Sarkar",
+    "groups": [3, 14]
   },
   {
-    name: "Jeffrey Vetter",
-    groups: [3, 16]
+    "name": "Markus Schordan",
+    "groups": [3, 15]
   },
   {
-    name: "Jisheng Zhao",
-    groups: [3, 9]
+    "name": "Jeffrey Vetter",
+    "groups": [3, 16]
   },
   {
-    name: "Bill Carlson",
-    groups: [4, 10]
+    "name": "Jisheng Zhao",
+    "groups": [3, 9]
   },
   {
-    name: "Valentin Clement",
-    groups: [4, 11]
+    "name": "Bill Carlson",
+    "groups": [4, 10]
   },
   {
-    name: "Johannes Doerfert",
-    groups: [4, 14]
+    "name": "Valentin Clement",
+    "groups": [4, 11]
   },
   {
-    name: "Franz Franchetti",
-    groups: [4, 11]
+    "name": "Johannes Doerfert",
+    "groups": [4, 14]
   },
   {
-    name: "Mary Hall",
-    groups: [4, 12]
+    "name": "Franz Franchetti",
+    "groups": [4, 11]
   },
   {
-    name: "Niranjan Hasabnis",
-    groups: [4, 9]
+    "name": "Mary Hall",
+    "groups": [4, 12]
   },
   {
-    name: "Martin Kong",
-    groups: [4, 13]
+    "name": "Niranjan Hasabnis",
+    "groups": [4, 9]
   },
   {
-    name: "Jacob Lambert",
-    groups: [4, 14]
+    "name": "Martin Kong",
+    "groups": [4, 13]
   },
   {
-    name: "Richard Lethin",
-    groups: [4, 15]
+    "name": "Jacob Lambert",
+    "groups": [4, 14]
   },
   {
-    name: "Eun Jung (EJ) Park",
-    groups: [4, 9]
+    "name": "Richard Lethin",
+    "groups": [4, 15]
   },
   {
-    name: "Jonathan Ragan-Kelley",
-    groups: [4, 10]
+    "name": "Eun Jung (EJ) Park",
+    "groups": [4, 9]
   },
   {
-    name: "Randi Rost",
-    groups: [4, 11]
+    "name": "Jonathan Ragan-Kelley",
+    "groups": [4, 10]
   },
   {
-    name: "Michelle Strout",
-    groups: [4, 12]
+    "name": "Randi Rost",
+    "groups": [4, 11]
   },
   {
-    name: "Joseph Tarango",
-    groups: [4, 13]
+    "name": "Michelle Strout",
+    "groups": [4, 12]
   },
   {
-    name: "Fangke Ye",
-    groups: [4, 14]
+    "name": "Joseph Tarango",
+    "groups": [4, 13]
   },
   {
-    name: "Maaz Ahmad",
-    groups: [5, 15]
+    "name": "Fangke Ye",
+    "groups": [4, 14]
   },
   {
-    name: "Prasanna Balaprakash",
-    groups: [5, 16]
+    "name": "Maaz Ahmad",
+    "groups": [5, 15]
   },
   {
-    name: "Estee Chen",
-    groups: [5, 16]
+    "name": "Prasanna Balaprakash",
+    "groups": [5, 16]
   },
   {
-    name: "Taylor Childers",
-    groups: [5, 9]
+    "name": "Estee Chen",
+    "groups": [5, 16]
   },
   {
-    name: "Souradeep Dutta",
-    groups: [5, 10]
+    "name": "Taylor Childers",
+    "groups": [5, 9]
   },
   {
-    name: "Vinod Grover",
-    groups: [5, 10]
+    "name": "Souradeep Dutta",
+    "groups": [5, 10]
   },
   {
-    name: "Roshni Iyer",
-    groups: [5, 13]
+    "name": "Vinod Grover",
+    "groups": [5, 10]
   },
   {
-    name: "Vinu Joseph",
-    groups: [5, 14]
+    "name": "Roshni Iyer",
+    "groups": [5, 13]
   },
   {
-    name: "Vineeth Kashyap",
-    groups: [5, 11]
+    "name": "Vinu Joseph",
+    "groups": [5, 14]
   },
   {
-    name: "Jaehoon Koo",
-    groups: [5, 12]
+    "name": "Vineeth Kashyap",
+    "groups": [5, 11]
   },
   {
-    name: "Zhengchun Liu",
-    groups: [5, 13]
+    "name": "Jaehoon Koo",
+    "groups": [5, 12]
   },
   {
-    name: "Thirimadura Mendis",
-    groups: [5, 14]
+    "name": "Zhengchun Liu",
+    "groups": [5, 13]
   },
   {
-    name: "Mayur Naik",
-    groups: [5, 15]
+    "name": "Thirimadura Mendis",
+    "groups": [5, 14]
   },
   {
-    name: "Gilchan Park",
-    groups: [5, 16]
+    "name": "Mayur Naik",
+    "groups": [5, 15]
   },
   {
-    name: "Madhusudan Parthasarathy",
-    groups: [5, 9]
+    "name": "Gilchan Park",
+    "groups": [5, 16]
   },
   {
-    name: "Yihui Ren",
-    groups: [5, 10]
+    "name": "Madhusudan Parthasarathy",
+    "groups": [5, 9]
   },
   {
-    name: "Armando Solar-Lezama",
-    groups: [5, 11]
+    "name": "Yihui Ren",
+    "groups": [5, 10]
   },
   {
-    name: "Michael Spertus",
-    groups: [5, 9]
+    "name": "Armando Solar-Lezama",
+    "groups": [5, 11]
   },
   {
-    name: "JesminJahan Tithi",
-    groups: [5, 12]
+    "name": "Michael Spertus",
+    "groups": [5, 9]
   },
   {
-    name: "Wei Wang",
-    groups: [5, 11]
+    "name": "JesminJahan Tithi",
+    "groups": [5, 12]
   },
   {
-    name: "Shengtian Zhou",
-    groups: [5, 15]
+    "name": "Wei Wang",
+    "groups": [5, 11]
   },
   {
-    name: "Todd Anderson",
-    groups: [6, 13]
+    "name": "Shengtian Zhou",
+    "groups": [5, 15]
   },
   {
-    name: "François Charton",
-    groups: [6, 16]
+    "name": "Todd Anderson",
+    "groups": [6, 13]
   },
   {
-    name: "Swarat Chaudhuri",
-    groups: [6, 14]
+    "name": "François Charton",
+    "groups": [6, 16]
   },
   {
-    name: "Işil Dillig",
-    groups: [6, 15]
+    "name": "Swarat Chaudhuri",
+    "groups": [6, 14]
   },
   {
-    name: "Milos Gligoric",
-    groups: [6, 16]
+    "name": "Işil Dillig",
+    "groups": [6, 15]
   },
   {
-    name: "Paul Hovland",
-    groups: [6, 9]
+    "name": "Milos Gligoric",
+    "groups": [6, 16]
   },
   {
-    name: "Jan Hueckelheim",
-    groups: [6, 13]
+    "name": "Paul Hovland",
+    "groups": [6, 9]
   },
   {
-    name: "Samuel Kaufman",
-    groups: [6, 9]
+    "name": "Jan Hueckelheim",
+    "groups": [6, 13]
   },
   {
-    name: "Edward Lee",
-    groups: [6, 10]
+    "name": "Samuel Kaufman",
+    "groups": [6, 9]
   },
   {
-    name: "Alexey Loginov",
-    groups: [6, 11]
+    "name": "Edward Lee",
+    "groups": [6, 10]
   },
   {
-    name: "Abdullah Muzahid",
-    groups: [6, 12]
+    "name": "Alexey Loginov",
+    "groups": [6, 11]
   },
   {
-    name: "Sheena Panthaplackel",
-    groups: [6, 13]
+    "name": "Abdullah Muzahid",
+    "groups": [6, 12]
   },
   {
-    name: "Krishnan Raghavan",
-    groups: [6, 14]
+    "name": "Sheena Panthaplackel",
+    "groups": [6, 13]
   },
   {
-    name: "Thomas Randall",
-    groups: [6, 10]
+    "name": "Krishnan Raghavan",
+    "groups": [6, 14]
   },
   {
-    name: "Kamil Rocki",
-    groups: [6, 15]
+    "name": "Thomas Randall",
+    "groups": [6, 10]
   },
   {
-    name: "Tiark Rompf",
-    groups: [6, 15]
+    "name": "Kamil Rocki",
+    "groups": [6, 15]
   },
   {
-    name: "Srinivasan Sengamedu",
-    groups: [6, 16]
+    "name": "Tiark Rompf",
+    "groups": [6, 15]
   },
   {
-    name: "Yizhou Sun",
-    groups: [6, 14]
+    "name": "Srinivasan Sengamedu",
+    "groups": [6, 16]
   },
   {
-    name: "Aditya Thakur",
-    groups: [6, 9]
+    "name": "Yizhou Sun",
+    "groups": [6, 14]
   },
   {
-    name: "Ashwin Vijayakumar",
-    groups: [6, 10]
+    "name": "Aditya Thakur",
+    "groups": [6, 9]
   },
   {
-    name: "Fei Wang",
-    groups: [6, 15]
+    "name": "Ashwin Vijayakumar",
+    "groups": [6, 10]
   },
   {
-    name: "Aws Albarghouthi",
-    groups: [7, 11]
+    "name": "Fei Wang",
+    "groups": [6, 15]
   },
   {
-    name: "Ras Bodik",
-    groups: [7, 12]
+    "name": "Aws Albarghouthi",
+    "groups": [7, 11]
   },
   {
-    name: "Alvin Cheung",
-    groups: [7, 13]
+    "name": "Ras Bodik",
+    "groups": [7, 12]
   },
   {
-    name: "Krzysztof Drewniak",
-    groups: [7, 14]
+    "name": "Alvin Cheung",
+    "groups": [7, 13]
   },
   {
-    name: "Thomas Helmuth",
-    groups: [7, 15]
+    "name": "Krzysztof Drewniak",
+    "groups": [7, 14]
   },
   {
-    name: "Sarfraz Khurshid",
-    groups: [7, 16]
+    "name": "Thomas Helmuth",
+    "groups": [7, 15]
   },
   {
-    name: "Ruben Martins",
-    groups: [7, 9]
+    "name": "Sarfraz Khurshid",
+    "groups": [7, 16]
   },
   {
-    name: "James McDonald",
-    groups: [7, 16]
+    "name": "Ruben Martins",
+    "groups": [7, 9]
   },
   {
-    name: "Peter-Michael Osera",
-    groups: [7, 10]
+    "name": "James McDonald",
+    "groups": [7, 16]
   },
   {
-    name: "Hila Peleg",
-    groups: [7, 11]
+    "name": "Peter-Michael Osera",
+    "groups": [7, 10]
   },
   {
-    name: "Nadia Polikarpova",
-    groups: [7, 12]
+    "name": "Hila Peleg",
+    "groups": [7, 11]
   },
   {
-    name: "Arjun Radhakrishna",
-    groups: [7, 13]
+    "name": "Nadia Polikarpova",
+    "groups": [7, 12]
   },
   {
-    name: "Mark Santolucito",
-    groups: [7, 14]
+    "name": "Arjun Radhakrishna",
+    "groups": [7, 13]
   },
   {
-    name: "Koushik Sen",
-    groups: [7, 15]
+    "name": "Mark Santolucito",
+    "groups": [7, 14]
   },
   {
-    name: "Xinyu Wang",
-    groups: [7, 1]
+    "name": "Koushik Sen",
+    "groups": [7, 15]
   },
   {
-    name: "Rajeev Alur",
-    groups: [8, 9]
+    "name": "Xinyu Wang",
+    "groups": [7, 1]
   },
   {
-    name: "James Bornholt",
-    groups: [8, 10]
+    "name": "Rajeev Alur",
+    "groups": [8, 9]
   },
   {
-    name: "Loris D'Antoni",
-    groups: [8, 11]
+    "name": "James Bornholt",
+    "groups": [8, 10]
   },
   {
-    name: "Justin Gottschlich",
-    groups: [8, 12]
+    "name": "Loris D'Antoni",
+    "groups": [8, 11]
   },
   {
-    name: "Justin Hsu",
-    groups: [8, 13]
+    "name": "Justin Gottschlich",
+    "groups": [8, 12]
   },
   {
-    name: "Siddharth Krishna",
-    groups: [8, 14]
+    "name": "Justin Hsu",
+    "groups": [8, 13]
   },
   {
-    name: "Cyrus Omar",
-    groups: [8, 15]
+    "name": "Siddharth Krishna",
+    "groups": [8, 14]
   },
   {
-    name: "Pavel Panchekha",
-    groups: [8, 16]
+    "name": "Cyrus Omar",
+    "groups": [8, 15]
   },
   {
-    name: "Ruzica Piskac",
-    groups: [8, 9]
+    "name": "Pavel Panchekha",
+    "groups": [8, 16]
   },
   {
-    name: "Xiaokang Qiu",
-    groups: [8, 10]
+    "name": "Ruzica Piskac",
+    "groups": [8, 9]
   },
   {
-    name: "Thomas Reps",
-    groups: [8, 11]
+    "name": "Xiaokang Qiu",
+    "groups": [8, 10]
   },
   {
-    name: "Roopsha Samanta",
-    groups: [8, 12]
+    "name": "Thomas Reps",
+    "groups": [8, 11]
   },
   {
-    name: "Eric Schulte",
-    groups: [8, 12]
+    "name": "Roopsha Samanta",
+    "groups": [8, 12]
   },
   {
-    name: "Douglas Smith",
-    groups: [8, 13]
+    "name": "Eric Schulte",
+    "groups": [8, 12]
   },
   {
-    name: "George Stelle",
-    groups: [8, 14]
+    "name": "Douglas Smith",
+    "groups": [8, 13]
+  },
+  {
+    "name": "George Stelle",
+    "groups": [8, 14]
   }
 ]
