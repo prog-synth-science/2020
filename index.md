@@ -66,7 +66,7 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](https://bluejeans.com/366457768/8868) |
-| (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: ): | | |
+| (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: Johannes Doerfert): | | |
 | | Modernizing Compiler Technology using Machine Learning | Charith Mendis |  |
 | | Challenges and Opportunities for AI-Driven, Directive-based Heterogeneous Computing | Seyong Lee |  |
 | | Automatic Synthesis of Compiler Transformations | Martin Kong | |
@@ -117,7 +117,7 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](https://bluejeans.com/947717705/1267) |
-| (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: ): | | |
+| (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Johannes Doerfert): | | |
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  | |
 | | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing | Dmitry Liakh  | |
 | | Code Analysis and Optimization using Loop Hierarchies | Michael Kruse  | |
