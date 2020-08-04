@@ -66,19 +66,19 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](https://bluejeans.com/366457768/8868) |
-| (12:00 - 12:30) | Three presentations, 10 minutes each: | | |
+| (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: ): | | |
 | | Modernizing Compiler Technology using Machine Learning | Charith Mendis |  |
 | | Challenges and Opportunities for AI-Driven, Directive-based Heterogeneous Computing | Seyong Lee |  |
 | | Automatic Synthesis of Compiler Transformations | Martin Kong | |
 | | Proceed to your [discussion group](groups) (group 3 or 4) | | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | | [BlueJeans](https://bluejeans.com/734416982/6553) |
-| (12:00 - 12:30) | Three presentations, 10 minutes each: | | |
+| (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: Hal Finkel): | | |
 | | BluePencil: Automating Repetitive Code Edits with Modeless Synthesis | Arjun Radhakrishna |  |
 | | Learning fitness functions to synthesize programs | Abdullah Muzahid |  |
 | | Program Synthesis using Deduction-Guided Reinforcement Learning | Işil Dillig | |
 | | Proceed to your [discussion group](groups) (group 5 or 6) | | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | | [BlueJeans](https://bluejeans.com/396360755/4377) |
-| (12:00 - 12:30) | Three presentations, 10 minutes each: | | |
+| (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: Ignacio Laguna): | | |
 | | Syntax-guided synthesis | Rajeev Alur |  |
 | | Best-Effort Program Synthesis | Hila Peleg|  |
 | | Synthesis of Safe Pointer-Manipulating Programs | Nadia Polikarpova | |
@@ -88,23 +88,24 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 |2:15 - 4:00 | **Breakouts 2 (parallel sessions - all interdisciplinary)** |   |  |
 | | *Pick any of the three sessions, and then proceed to your discussion group* | | |
 | | **Session 1** | | [BlueJeans](https://bluejeans.com/408435647/0604) |
-| (2:15 - 2:45) | Three presentations, 10 minutes each: | | |
+| (2:15 - 2:45) | Three presentations, 10 minutes each (Chair: Hal Finkel): | | |
 | | Learning maths from examples with deep language model | Amaury Hayat / François Charton | |
 | | Algorithm Synthesis for Scientific Applications | Markus Eisenbach | |
 | | Compiler 2.0: Using Machine Learning to Modernize Compiler Technology | Saman Amarasinghe | |
 | | Proceed to your [discussion group](groups) (groups 9-16) | | |
 | | **Session 2** | | [BlueJeans](https://bluejeans.com/573899258/3710) |
-| (2:15 - 2:45) | Three presentations, 10 minutes each: | | |
+| (2:15 - 2:45) | Three presentations, 10 minutes each (Chair: Ignacio Laguna): | | |
 | | Using Code Synthesis to Revitalize Legacy Code in Scientific Applications | Vivek Sarkar | |
 | | Using Synthesis to Simplify Parallel Code Development | Alex Aiken | |
 | | Learning + Search: The Right Way to Build an Optimizing Compiler | Jonathan Ragan-Kelley | |
 | | Proceed to your [discussion group](groups) (groups 9-16) | | |
 | | **Session 3** | | [BlueJeans](https://bluejeans.com/627425174/4530) |
-| (2:15 - 2:45) | Three presentations, 10 minutes each: | | |
+| (2:15 - 2:45) | Three presentations, 10 minutes each (Chair: Johannes Doerfert): | | |
 | | Evolving machine code | Kamil Rocki | |
 | | Improving the Scalability and Practicality of Syntax-Guided Synthesis | Xiaokang Qiu | |
 | | Performance Exploration Through Optimistic Static Program Annotations | Johannes Doerfert | |
 | | Proceed to your [discussion group](groups) (groups 9-16) | | |
+| 4:00 | Adjourn | | |
 
 ### Day 2 (Aug/5)
 
@@ -116,21 +117,21 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](https://bluejeans.com/947717705/1267) |
-| (12:00 - 12:40) | Four presentations, 10 minutes each: | | |
+| (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: ): | | |
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  | |
 | | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing | Dmitry Liakh  | |
 | | Code Analysis and Optimization using Loop Hierarchies | Michael Kruse  | |
 | | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout  | |
 | | Proceed to your [discussion group](groups) (group 3 or 4) | | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | | [BlueJeans](https://bluejeans.com/413251977/5324) |
-| (12:00 - 12:40) | Four presentations, 10 minutes each: | | |
+| (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Hal Finkel): | | |
 | | Statistical Program Synthesis | Swarat Chaudhuri  | |
 | | Learning Logic Programs from Data: From Practice to Theory and Back | Mayur Naik  | |
 | | Symbolic AD with conditionals for error and instability analysis | Ganesh L Gopalakrishnan  | |
 | | Machine-learning-based automatic performance tuning | Prasanna Balaprakash  | |
 | | Proceed to your [discussion group](groups) (group 5 or 6) | | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | | [BlueJeans](https://bluejeans.com/882408836/3385) |
-| (12:00 - 12:40) | Four presentations, 10 minutes each: | | |
+| (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Ignacio Laguna): | | |
 | | Live Functional Programming with Typed Holes | Cyrus Omar  | |
 | | Synthesis via Tactics | George Stelle  | |
 | | Using Synthesis for Verification of Configuration Files | Ruzica Piskac  | |
