@@ -115,28 +115,28 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 |11:15 - 12:00 | Readouts (from interdisciplinary sessions) |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 |12:00 - 1:30 | **Breakouts 3 (parallel sessions)** |  |  |
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | | |
-| | Proceed directly to your [discussion group](groups) (group 1 or 2) | | |
+| | Proceed directly to your [discussion group](groups) (group 17 or 18) | | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | | [BlueJeans](https://bluejeans.com/947717705/1267) |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Johannes Doerfert): | | |
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  | |
 | | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing | Dmitry Liakh  | |
 | | Code Analysis and Optimization using Loop Hierarchies | Michael Kruse  | |
 | | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout  | |
-| | Proceed to your [discussion group](groups) (group 3 or 4) | | |
+| | Proceed to your [discussion group](groups) (group 19 or 20) | | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | | [BlueJeans](https://bluejeans.com/413251977/5324) |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Hal Finkel): | | |
 | | Statistical Program Synthesis | Swarat Chaudhuri  | |
 | | Learning Logic Programs from Data: From Practice to Theory and Back | Mayur Naik  | |
 | | Symbolic AD with conditionals for error and instability analysis | Ganesh L Gopalakrishnan  | |
 | | Machine-learning-based automatic performance tuning | Prasanna Balaprakash  | |
-| | Proceed to your [discussion group](groups) (group 5 or 6) | | |
+| | Proceed to your [discussion group](groups) (group 21 or 22) | | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | | [BlueJeans](https://bluejeans.com/882408836/3385) |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Ignacio Laguna): | | |
 | | Live Functional Programming with Typed Holes | Cyrus Omar  | |
 | | Synthesis via Tactics | George Stelle  | |
 | | Using Synthesis for Verification of Configuration Files | Ruzica Piskac  | |
 | | Synthesis and Learnability of Relational Properties | Sarfraz Khurshid  | |
-| | Proceed to your [discussion group](groups) (group 7 or 8) | | |
+| | Proceed to your [discussion group](groups) (group 23 or 24) | | |
 | 1:30 - 2:00 | Break | | |
 | 2:00 - 2:45 | Readouts |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |
 | 2:45 - 3:00 | Closing Remarks |  | [BlueJeans](https://primetime.bluejeans.com/a2m/live-event/trfzpvfh) |

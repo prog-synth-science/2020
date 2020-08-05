@@ -322,10 +322,10 @@ hide_hero: true
   
   <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Group 1: <br />
+  <tr> <td> </td> <td>Group 17: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 1 %}
+          {% if g == 17 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -336,10 +336,10 @@ hide_hero: true
   <td> <a href="https://bluejeans.com/190596050/8726">BlueJeans</a> </td>
   </tr>
   
-  <tr> <td> </td> <td>Group 2: <br />
+  <tr> <td> </td> <td>Group 18: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 2 %}
+          {% if g == 18 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -358,10 +358,10 @@ hide_hero: true
 
   <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Group 3: <br />
+  <tr> <td> </td> <td>Group 19: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 3 %}
+          {% if g == 19 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -372,10 +372,10 @@ hide_hero: true
   <td> <a href="https://bluejeans.com/279171928/2747">BlueJeans</a> </td>
   </tr>
   
-  <tr> <td> </td> <td>Group 4: <br />
+  <tr> <td> </td> <td>Group 20: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 4 %}
+          {% if g == 20 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -394,10 +394,10 @@ hide_hero: true
 
   <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Group 5: <br />
+  <tr> <td> </td> <td>Group 21: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 5 %}
+          {% if g == 21 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -408,10 +408,10 @@ hide_hero: true
   <td> <a href="https://bluejeans.com/910353410/9998">BlueJeans</a> </td>
   </tr>
   
-  <tr> <td> </td> <td>Group 6: <br />
+  <tr> <td> </td> <td>Group 22: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 6 %}
+          {% if g == 22 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -430,10 +430,10 @@ hide_hero: true
 
   <tr> <td> </td> <td>Please address these <a href="#cq">charge questions</a>.</td> <td> </td> </tr>
 
-  <tr> <td> </td> <td>Group 7: <br />
+  <tr> <td> </td> <td>Group 23: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 7 %}
+          {% if g == 23 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
@@ -444,10 +444,10 @@ hide_hero: true
   <td> <a href="https://bluejeans.com/170733779/7052">BlueJeans</a> </td>
   </tr>
   
-  <tr> <td> </td> <td>Group 8: <br />
+  <tr> <td> </td> <td>Group 24: <br />
   {% for p in site.data.groups %}
   {% for g in p.groups %}
-          {% if g == 8 %}
+          {% if g == 24 %}
   {{p.name}},
           {% endif %}
   {% endfor %}
