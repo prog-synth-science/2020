@@ -123,7 +123,7 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Hal Finkel): | |
 | | Statistical Program Synthesis | Swarat Chaudhuri  |
 | | Learning Logic Programs from Data: From Practice to Theory and Back | Mayur Naik  |
-| | Symbolic AD with conditionals for error and instability analysis | Ganesh L Gopalakrishnan  |
+| | Symbolic AD with conditionals for error and instability analysis [slides][pres/Gopalakrishnan-ArgonneAI20.pdf] | Ganesh L Gopalakrishnan  |
 | | Machine-learning-based automatic performance tuning | Prasanna Balaprakash  |
 | | Proceed to your [discussion group](groups) (group 21 or 22) | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | |
