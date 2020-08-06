@@ -14,7 +14,6 @@ hide_hero: true
   <tr>
     <th>Time (CDT)</th>
     <th>Module</th>
-    <th>Meeting Link</th>
   </tr>
   
   <tr>
@@ -38,7 +37,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Valerie Taylor,
   <b>Note Takers</b>: Ian Foster, Min Si
   </td> 
-  <td> <a href="https://bluejeans.com/357432249/9742">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 2: <br />
@@ -52,7 +50,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Pavan Balaji,
   <b>Note Takers</b>: Ganesh Gopalakrishnan, Ian Karlin
   </td> 
-  <td> <a href="https://bluejeans.com/609275045/5422">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -74,7 +71,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Barbara Chapman,
   <b>Note Takers</b>: Michael Kruse, Vivek Sarkar
   </td> 
-  <td> <a href="https://bluejeans.com/645559327/0098">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 4: <br />
@@ -88,7 +84,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Mary Hall,
   <b>Note Takers</b>: Jacob Lambert, Eun Jung (EJ) Park
   </td> 
-  <td> <a href="https://bluejeans.com/887795031/9192">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -110,7 +105,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Mayur Naik,
   <b>Note Takers</b>: Prasanna Balaprakash, Thirimadura Mendis
   </td> 
-  <td> <a href="https://bluejeans.com/404990220/7122">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 6: <br />
@@ -124,7 +118,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Alexey Loginov,
   <b>Note Takers</b>: Krishnan Raghavan, Kamil Rocki
   </td> 
-  <td> <a href="https://bluejeans.com/220816776/3559">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -146,7 +139,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Ras Bodik,
   <b>Note Takers</b>: Aws Albarghouthi, Mark Santolucito
   </td> 
-  <td> <a href="https://bluejeans.com/130055935/3376">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 8: <br />
@@ -160,7 +152,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Rajeev Alur,
   <b>Note Takers</b>: Cyrus Omar, George Stelle
   </td> 
-  <td> <a href="https://bluejeans.com/188346075/3335">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -200,7 +191,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Michael Spertus,
   <b>Note Takers</b>: Rajeev Alur, Taylor Childers
   </td> 
-  <td> <a href="https://bluejeans.com/806843863/0321">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 10: <br />
@@ -214,7 +204,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Bill Carlson,
   <b>Note Takers</b>: Nuno Lopes, Jonathan Ragan-Kelley
   </td> 
-  <td> <a href="https://bluejeans.com/974436184/4706">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 11: <br />
@@ -228,7 +217,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Randi Rost,
   <b>Note Takers</b>: Armando Solar-Lezama, Tong Zhou
   </td> 
-  <td> <a href="https://bluejeans.com/599400432/4547">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 12: <br />
@@ -242,7 +230,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Eric Schulte,
   <b>Note Takers</b>: Alex Aiken, Abdullah Muzahid
   </td> 
-  <td> <a href="https://bluejeans.com/635899911/9003">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 13: <br />
@@ -256,7 +243,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Ian Karlin,
   <b>Note Takers</b>: Todd Anderson, Sheena Panthaplackel
   </td> 
-  <td> <a href="https://bluejeans.com/834333631/1648">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 14: <br />
@@ -270,7 +256,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Vivek Sarkar,
   <b>Note Takers</b>: Johannes Doerfert, Siddharth Krishna
   </td> 
-  <td> <a href="https://bluejeans.com/854681398/3749">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 15: <br />
@@ -284,7 +269,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Cyrus Omar,
   <b>Note Takers</b>: Işil Dillig, Richard Lethin
   </td> 
-  <td> <a href="https://bluejeans.com/232160816/1487">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 16: <br />
@@ -298,7 +282,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Prasanna Balaprakash,
   <b>Note Takers</b>: Brandon Neth, Pavel Panchekha
   </td> 
-  <td> <a href="https://bluejeans.com/148128549/3765">BlueJeans</a> </td>
   </tr>
   
 </table>
@@ -309,7 +292,6 @@ hide_hero: true
   <tr>
     <th>Time (CDT)</th>
     <th>Module</th>
-    <th>Meeting Link</th>
   </tr>
   
   <tr>
@@ -333,7 +315,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Rajeev Thakur,
   <b>Note Takers</b>: Ian Foster, Min Si
   </td> 
-  <td> <a href="https://bluejeans.com/190596050/8726">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 18: <br />
@@ -347,7 +328,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Michael Heroux,
   <b>Note Takers</b>: Ganesh Gopalakrishnan, Ian Karlin
   </td> 
-  <td> <a href="https://bluejeans.com/964366076/3667">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -369,7 +349,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Jeffrey Vetter,
   <b>Note Takers</b>: Michael Kruse, Markus Schordan
   </td> 
-  <td> <a href="https://bluejeans.com/279171928/2747">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 20: <br />
@@ -383,7 +362,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Johannes Doerfert,
   <b>Note Takers</b>: Jacob Lambert, Eun Jung (EJ) Park
   </td> 
-  <td> <a href="https://bluejeans.com/738687549/2434">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -405,7 +383,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Armando Solar-Lezama,
   <b>Note Takers</b>: Prasanna Balaprakash, Thirimadura Mendis
   </td> 
-  <td> <a href="https://bluejeans.com/910353410/9998">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 22: <br />
@@ -419,7 +396,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Işil Dillig,
   <b>Note Takers</b>: Krishnan Raghavan, Kamil Rocki
   </td> 
-  <td> <a href="https://bluejeans.com/656934980/9596">BlueJeans</a> </td>
   </tr>
   
   <tr>
@@ -441,7 +417,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Sarfraz Khurshid,
   <b>Note Takers</b>: Aws Albarghouthi, Mark Santolucito
   </td> 
-  <td> <a href="https://bluejeans.com/170733779/7052">BlueJeans</a> </td>
   </tr>
   
   <tr> <td> </td> <td>Group 24: <br />
@@ -455,7 +430,6 @@ hide_hero: true
   <b>Discussion Lead</b>: Justin Gottschlich,
   <b>Note Takers</b>: Cyrus Omar, George Stelle
   </td> 
-  <td> <a href="https://bluejeans.com/344409195/6526">BlueJeans</a> </td>
   </tr>
   
 </table>
