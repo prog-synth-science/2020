@@ -69,15 +69,15 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | Proceed to your [discussion group](groups) (group 3 or 4) | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | |
 | (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: Hal Finkel): | |
-| | BluePencil: Automating Repetitive Code Edits with Modeless Synthesis | Arjun Radhakrishna |
+| | BluePencil: Automating Repetitive Code Edits with Modeless Synthesis ([slides](pres/Radhakrishna-BluePencil-Automating_Code_Edits_via_Modeless_Synthesis.pdf)) | Arjun Radhakrishna |
 | | Learning fitness functions to synthesize programs | Abdullah Muzahid |
 | | Program Synthesis using Deduction-Guided Reinforcement Learning | Işil Dillig |
 | | Proceed to your [discussion group](groups) (group 5 or 6) | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | |
 | (12:00 - 12:30) | Three presentations, 10 minutes each (Chair: Ignacio Laguna): | |
-| | Syntax-guided synthesis | Rajeev Alur |
-| | Best-Effort Program Synthesis | Hila Peleg|
-| | Synthesis of Safe Pointer-Manipulating Programs | Nadia Polikarpova |
+| | Syntax-guided synthesis ([slides](pres/Alur-syntax-guided-synthesis.pdf)) | Rajeev Alur |
+| | Best-Effort Program Synthesis ([slides](pres/Peleg-best-effort-synthesis.pdf)) | Hila Peleg |
+| | Synthesis of Safe Pointer-Manipulating Programs ([slides](pres/Polikarpova-suslik.pdf)) | Nadia Polikarpova |
 | | Proceed to your [discussion group](groups) (group 7 or 8) | |
 |1:30 - 2:00 |  Break |  |
 |2:00 - 2:15 | Readouts (from the applications sessions, groups 1 and 2, only) |   |
@@ -92,12 +92,12 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | **Session 2** | |
 | (2:15 - 2:45) | Three presentations, 10 minutes each (Chair: Ignacio Laguna): | |
 | | Using Code Synthesis to Revitalize Legacy Code in Scientific Applications | Vivek Sarkar |
-| | Using Synthesis to Simplify Parallel Code Development | Alex Aiken |
+| | Using Synthesis to Simplify Parallel Code Development ([slides](pres/Aiken-Simplifying_Parallel_Code_Development.pdf)) | Alex Aiken |
 | | Learning + Search: The Right Way to Build an Optimizing Compiler | Jonathan Ragan-Kelley |
 | | Proceed to your [discussion group](groups) (groups 9-16) | |
 | | **Session 3** | |
 | (2:15 - 2:45) | Three presentations, 10 minutes each (Chair: Johannes Doerfert): | |
-| | Evolving machine code | Kamil Rocki |
+| | Evolving machine code ([slides](pres/Rocki-evolving_machine_code.pdf)) | Kamil Rocki |
 | | Improving the Scalability and Practicality of Syntax-Guided Synthesis | Xiaokang Qiu |
 | | Performance Exploration Through Optimistic Static Program Annotations | Johannes Doerfert |
 | | Proceed to your [discussion group](groups) (groups 9-16) | |
@@ -114,9 +114,9 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | Proceed directly to your [discussion group](groups) (group 17 or 18) | |
 | | **Compiler Technology - Opportunities for Program Synthesis** | |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Johannes Doerfert): | |
-| | Reversible Computation in Optimistic Parallel Discrete Event Simulation | Markus Schordan  |
-| | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing | Dmitry Liakh  |
-| | Code Analysis and Optimization using Loop Hierarchies | Michael Kruse  |
+| | Reversible Computation in Optimistic Parallel Discrete Event Simulation ([slides](pres/Schordan-reversible_computation_in_pdes.pdf)) | Markus Schordan  |
+| | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing ([slides](pres/Liakh-DSVP_AI.pdf)) | Dmitry Liakh  |
+| | Code Analysis and Optimization using Loop Hierarchies ([slides](pres/Kruse-Code_Analysis_and_Optimization_using_Loop_Hierarchies.pdf)) | Michael Kruse |
 | | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout  |
 | | Proceed to your [discussion group](groups) (group 19 or 20) | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | |
@@ -124,12 +124,12 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | Statistical Program Synthesis | Swarat Chaudhuri  |
 | | Learning Logic Programs from Data: From Practice to Theory and Back | Mayur Naik  |
 | | Symbolic AD with conditionals for error and instability analysis ([slides](pres/Gopalakrishnan-ArgonneAI20.pdf)) | Ganesh L Gopalakrishnan  |
-| | Machine-learning-based automatic performance tuning | Prasanna Balaprakash  |
+| | Machine-learning-based automatic performance tuning ([slides](pres/Balaprakash-PS.pdf)) | Prasanna Balaprakash  |
 | | Proceed to your [discussion group](groups) (group 21 or 22) | |
 | | **Program Synthesis using Enumerative/Formal Methods (e.g., CEGIS)** | |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Ignacio Laguna): | |
-| | Live Functional Programming with Typed Holes | Cyrus Omar  |
-| | Synthesis via Tactics | George Stelle  |
+| | Live Functional Programming with Typed Holes ([slides](pres/Omar-Live_Functional_Programming_with_Typed_Holes.pdf)) | Cyrus Omar |
+| | Synthesis via Tactics ([slides](pres/Stelle-Synthesis_via_Tactics.pdf)) | George Stelle |
 | | Using Synthesis for Verification of Configuration Files | Ruzica Piskac  |
 | | Synthesis and Learnability of Relational Properties | Sarfraz Khurshid  |
 | | Proceed to your [discussion group](groups) (group 23 or 24) | |
