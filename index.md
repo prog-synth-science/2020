@@ -57,7 +57,7 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | Time (CDT) | Module | Presenter |
 |------|--------|-----------|
 |11:00 - 11:15 | Welcome & Logistics | Hal/Ignacio |
-|11:15 - 12:00 | **Keynote:** *Machine Programming: Challenges and Opportunities* ([video](https://youtu.be/b3P4lmXpQEw);[slides](pres/Gottschlich-ps_keynote.v19.pdf)) | Justin Gottschlich (Intel) |
+|11:15 - 12:00 | **Keynote:** *Machine Programming: Challenges and Opportunities* ([video](https://youtu.be/b3P4lmXpQEw); [slides](pres/Gottschlich-ps_keynote.v19.pdf)) | Justin Gottschlich (Intel) |
 |12:00 - 1:30 | **Breakouts 1 (parallel sessions)** |  |
 | | **Scientific Applications and Methods - Opportunities for Program Synthesis** | |
 | | Proceed directly to your [discussion group](groups) (group 1 or 2) | |
