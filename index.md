@@ -117,7 +117,7 @@ In this talk, we will cover a diverse range of topics that we believe are centra
 | | Reversible Computation in Optimistic Parallel Discrete Event Simulation ([slides](pres/Schordan-reversible_computation_in_pdes.pdf)) | Markus Schordan  |
 | | Domain-Specific Virtual Processors as Portable Programming and Execution Model for Scientific Computing ([slides](pres/Liakh-DSVP_AI.pdf)) | Dmitry Liakh  |
 | | Code Analysis and Optimization using Loop Hierarchies ([slides](pres/Kruse-Code_Analysis_and_Optimization_using_Loop_Hierarchies.pdf)) | Michael Kruse |
-| | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout  |
+| | Loop Transformation Frameworks for Sparse Codes and Program Synthesis Opportunities | Michelle M Strout ([slides](pres/Strout-ideas-about-synthesizing-transformed-sparse-codes.pdf)) |
 | | Proceed to your [discussion group](groups) (group 19 or 20) | |
 | | **Program Synthesis using Data-Driven Heuristics (e.g., Machine Learning)** | |
 | (12:00 - 12:40) | Four presentations, 10 minutes each (Chair: Hal Finkel): | |
