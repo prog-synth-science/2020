@@ -10,6 +10,8 @@ hide_hero: true
 
 # Workshop on Program Synthesis for Scientific Computing (PSW)
 
+The workshop report is now available in this web page: [https://www.anl.gov/cels/program-synthesis-for-scientific-computing-report](https://www.anl.gov/cels/program-synthesis-for-scientific-computing-report)
+
 The US Department of Energy is planning an aggressive research program as part of its AI initiative, and as highlighted in the recently-released AI for Science [report](https://www.anl.gov/ai-for-science-report) (see section 9), **program synthesis** and other high-level, AI-integrated programming methods will potentially be an important part of this program. The workshop will explore opportunities to develop program synthesis techniques that apply to scientific programming.
 
 ### Topics of Interest
